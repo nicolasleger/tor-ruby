@@ -10,3 +10,4 @@ rvm:
   - 2.5
   - jruby-9
   - jruby-17
+script: bundle exec rspec
